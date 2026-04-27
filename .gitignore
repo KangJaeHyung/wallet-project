@@ -1,0 +1,14 @@
+.metadata/
+
+# Workspace/editor artifacts
+.idea/
+.vscode/
+.cursor/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Runtime logs
+logs/
+*.log
